@@ -4,7 +4,7 @@ import logging
 from aiogram import Bot
 import asyncio
 
-API_TOKEN = '7466760045:AAF1E7sLjcu0VinF9LYIjzzs_Qm45l9lThA'
+API_TOKEN = '7343477389:AAEL3rdXEVk9F1O1twhwtTsPdlEL72qrzKg'
 ADMIN_ID = 6829567767
 MAX_RESTARTS = 5
 RESTART_PERIOD = 60  # Seconds
